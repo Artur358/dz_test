@@ -23,13 +23,12 @@ body {
 .header-box div{
     width:60%;
     margin: 40px auto;
-    color:white;
+    color: antiquewhite;
     font-size: 1.75em;
 }
 
 header-box p{
     margin-top: 75px;
-    padding: 10px;
 }
 
 
