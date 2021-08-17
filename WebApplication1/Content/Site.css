@@ -1,0 +1,62 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.header-box {
+    text-align: center;
+    padding: 10% 0%;
+    background-image: url("../Images/ип-1.jpg");
+    background-size: cover;
+    margin-bottom: 30px;
+}
+
+.header-box h1{
+    color: white;
+    font-size:12px;
+    text-shadow:2px 2px red;
+
+}
+
+
+.header-box div{
+    width:60%;
+    margin: 40px auto;
+    color:white;
+    font-size: 1.75em;
+}
+
+header-box p{
+    margin-top: 75px;
+    padding: 10px;
+}
+
+
+.card{
+
+}
+
+
+.mybtn {
+    border: 2px solid lightgray;
+    border-radius: 15px;
+    width: 100px;
+    padding: 7px;
+    margin: 2px;
+    box-shadow: inset 5em 1em gold;
+}
+
+fw-light2{
+    font-size:25px;
+    color:white;
+
+}
+
+.col-md-4{
+    margin:20px;
+}
+
+.cardimg{
+    width:75%;
+}
